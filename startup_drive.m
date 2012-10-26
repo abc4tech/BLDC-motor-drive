@@ -3,14 +3,14 @@ clc
 
 
 %Control parameters
-OnLim = 500;
+OnLim = 150;
 OffLim = 0;
 bw = 0.01;
 
 
 KpW=0.83/2;
 KiW=300/2;
-KpP=62.8/2;
+KpP=62.8;
 KiP=0;
 ix = 1;
 
